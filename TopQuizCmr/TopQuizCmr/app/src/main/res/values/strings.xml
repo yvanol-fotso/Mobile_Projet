@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TopQuizCMR</string>
+
+<!--    je creais mes nouvelles string pour contenir le nom et le score-->
+
+<!--    ici 1 designe le numero selon l'ordre des mes parametre et le "s" et "d" ic designe le parametre de type String et d=decimal-->
+
+    <string name="welcome_back_with_score">%1$s  %2$d</string>
+    <string name="welcome_back">%1$s</string>
+
+</resources>
